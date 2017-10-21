@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  homework_type: MyString
+  duedate: 1
+  listing_title: MyString
+  listing_content: MyText
+  user: one
+
+two:
+  homework_type: MyString
+  duedate: 1
+  listing_title: MyString
+  listing_content: MyText
+  user: two
